@@ -1,6 +1,6 @@
 # Phonebook
 This phonebook app was developed using ASP.NET MVC, EntityFramework, and MS SQL Server to provide users with a simple and efficient way to manage their contacts. 
-Users can add, edit, and delete contacts, search for contacts by name or phone number, and view contact details such as email address and physical address.
+Users can add, edit, and delete contacts, search for contacts by name or phone number, view contact details such as email address and physical address.
 
 The app features a clean and intuitive user interface, with a simple layout and easy-to-use navigation. Contacts are stored using MS SQL Server and EntityFramework, 
 allowing for efficient data storage and retrieval.
