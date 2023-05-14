@@ -10,4 +10,4 @@ the app's features based on their assigned roles. For example, an administrator 
 own contacts.
 
 During development, one of the main challenges was ensuring that the role-based access control was implemented correctly and securely. This was overcome by thoroughly 
-testing the app's authentication & authorization mechanisms and making sure that all user roles were properly defined and assigned. 
+testing the app's authentication and authorization mechanisms and making sure that all user roles were properly defined and assigned. 
